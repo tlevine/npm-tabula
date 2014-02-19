@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+port=${1-8080}
+java -Dfile.encoding=utf-8 -Xms256M -Xmx1024M -Djetty.port="$port" -jar tabula.jar
