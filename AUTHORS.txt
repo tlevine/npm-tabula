@@ -8,6 +8,8 @@ The PRIMARY AUTHORS are (and/or have been):
 * David Frackman
 * Travis Swicegood - Texas Tribune
 
+Thomas Levine packaged it for npm.
+
 Special thanks to these organizations:
 
 * Knight-Mozilla OpenNews <http://www.mozillaopennews.org/>
